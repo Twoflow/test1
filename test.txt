@@ -2,3 +2,4 @@ Select * from
 amdocs.subscriber_sim
 limit 5
 ;
+Hello!
