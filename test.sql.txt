@@ -1,4 +1,10 @@
 Select * from
 amdocs.subscriber_sim
 limit 5
+;Select * from
+amdocs.subscriber_sim
+limit 5
+;Select * from
+amdocs.subscriber_sim
+limit 5
 ;
